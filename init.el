@@ -52,3 +52,6 @@
   (setq tab-always-indent (default-value 'tab-always-indent)))
 
 (add-hook 'asm-mode-hook #'my-asm-mode-hook)
+
+
+;; OS X Paste Functions for OS X Clipboard
